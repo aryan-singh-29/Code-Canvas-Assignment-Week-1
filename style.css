@@ -1,0 +1,49 @@
+nav{
+    padding: 10px;
+    font-family: Poppins,sans-serif;
+    background-color: black;
+
+}
+.Name{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 10px 750px 220px 40px;
+    color: rgb(237, 13, 13);
+}
+.Name::first-letter{
+    color: red;
+}
+a{
+    /* margin: px; */
+    text-decoration: none;
+    color: white;
+}
+.options{
+    margin: 30px;
+}
+body{
+    background-image: url("f.jpg");
+    /* background-position: center; */
+}
+.Hero{
+    color: white;
+    /* margin-top: 200px; */
+}
+div>p{
+    color: white;
+}
+.Photo{
+    margin-left: 1050px;
+}
+.head {
+    color: white;
+    /* font-size: 2em;
+    font-weight: bolder;
+    margin-top: 800px; */
+}
+#hi
+{
+    /* margin-top: 200px; */
+}
+
+    
